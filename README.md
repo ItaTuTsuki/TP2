@@ -35,4 +35,4 @@ Le notebook est prévu pour Linux (Google Colab, ou WSL sous Windows). Il suffit
 ## Voir aussi
 
 - [TP1](https://github.com/ItaTuTsuki/TP1) : comptage de mots (Python, pseudo-MapReduce, Hadoop, PySpark).
-- [TP3_ID6](https://github.com/ItaTuTsuki/TP3_ID6) : deux cas personnels, small data et big data.
+- [TP3_ID06](https://github.com/ItaTuTsuki/TP3_ID06) : deux cas personnels, small data et big data.
