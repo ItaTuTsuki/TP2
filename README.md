@@ -1,6 +1,6 @@
 # TP2 : accidents de la route avec PySpark
 
-**Auteur :** Hugo EXERTIER, cours Big Data 5A (Mohamed Quafafou), rendu du 18/11/2026.
+Hugo EXERTIER, cours de Big Data 5A, rendu du 18/11/2026.
 
 Analyse des accidents de la route en Australie-Méridionale entre 2012 et 2019 avec Apache Spark (PySpark), en utilisant les trois façons de manipuler des données dans Spark : les RDD, les DataFrames et Spark SQL.
 
